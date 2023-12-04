@@ -1,0 +1,106 @@
+<mjml>
+  <mj-head>
+    <mj-raw>
+      <meta name="color-scheme" content="light">
+      <meta name="supported-color-schemes" content="light">
+    </mj-raw>
+    <mj-title>Enchanted Streaming</mj-title>
+    <mj-attributes>
+      <mj-class name="main-heading" line-height="26px" letter-spacing="2px" font-weight="bold" align="center" color="#FFD700" font-size="24px" />
+      <mj-class name="main-text" padding-top="0" align="center" line-height="22px" color="#FFFFFF" font-size="16px" />
+      <mj-button padding-top="12px" width="220px" background-color="#4CAF50" padding="16px" font-weight="bold" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body width="400px">
+
+    <!-- Hero Section -->
+
+    <mj-section padding="0px" background-color="#0D0D0D">
+      <mj-column>
+        <mj-image padding="0px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/61b9fba6-3323-551e-efc9-cadbb7da659a.gif" alt="Enchanted_Logo" />
+        <mj-image padding="0px 0px 10px 0px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/c067306a-1ad1-3fcb-1bd3-0247d03599f2.png" alt="Hero_image" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Center Section -->
+
+    <mj-section background-color="#0D0D0D">
+      <mj-column>
+        <mj-text mj-class="main-heading"> EXPERIENCE ENCHANTMENT </mj-text>
+        <mj-text mj-class="main-text">
+          Embark on a journey through magical worlds filled with wonder and imagination.
+        </mj-text>
+        <mj-button> START YOUR ADVENTURE </mj-button>
+
+        <mj-text padding="20px" align="center">
+          <img style="padding:5px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/9f0b9bb0-cebc-62af-e815-400853363581.png" alt="Avengers" width="120px">
+          <img style="padding:5px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/f6268d99-a0e3-df4b-18bc-5c6f5e3e5532.png" alt="Beauty And the Beast" width="120px">
+          <img style="padding:5px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/21a5b774-a17a-9cd8-a90e-d27878efee47.png" alt="Rogue Trip" width="120px">
+          <img style="padding:5px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/92b102a1-3d93-7c6a-46e1-ed37e35f6171.png" alt="Onward" width="120px">
+          <img style="padding:5px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/772530fd-7f18-ba9a-426b-934727542bd4.png" alt="Jessie" width="120px">
+        </mj-text>
+
+        <mj-text mj-class="main-heading"> UNLEASH THE MAGIC </mj-text>
+        <mj-text padding-bottom="20px" mj-class="main-text">
+          Immerse yourself in a treasury of original content, timeless classics, and much more.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Blue Section -->
+
+    <mj-section background-color="#292929">
+      <mj-column>
+
+        <mj-image padding-bottom="20px" padding="15px 0px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/0e088031-a1d1-0ed6-ae21-eb0eaff45372.png" alt="Mobile_image" />
+        <mj-text letter-spacing="1px" mj-class="main-heading">Download & Watch Anywhere </mj-text>
+        <mj-text mj-class="main-text">Take the magic with you on up to 10 devices.</mj-text>
+
+        <!-- Center Image -->
+        <mj-image padding="20px 0px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/05d3eb9f-b45d-41e7-b199-6a540f6a4eac.png" alt="TV_Image" />
+
+        <mj-text letter-spacing="1px" mj-class="main-heading"> Premium For Everyone </mj-text>
+        <mj-text mj-class="main-text"> Watch on 4 devices simultaneously, ad-free, with select titles in 4K Ultra HD. It’s all included. </mj-text>
+        <mj-button> START STREAMING NOW </mj-button>
+
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Start -->
+
+    <mj-section background-color="#0D0D0D">
+      <mj-column padding-top="15px">
+
+        <mj-text color="#FFFFFF" font-weight="bold" align="center" font-size="17px">
+          Stay Connected
+        </mj-text>
+
+        <!-- Social Icon -->
+        <mj-social padding="10px 0px" icon-size="40px" mode="horizontal">
+          <mj-social-element padding="0 8px" alt="ig-icon" href="https://example.com" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/7681567c-6045-470e-a0f4-0178e5fcc345.png"></mj-social-element>
+          <mj-social-element padding="0 8px" alt="ig-icon" href="https://example.com" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/a029983b-2f47-1d69-1c41-cba83efc4a90.png"></mj-social-element>
+          <mj-social-element padding="0 8px" alt="ig-icon" href="https://example.com" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/8124f094-a75f-6458-57ef-b8f4bab3a138.png"></mj-social-element>
+        </mj-social>
+        <mj-text font-size="12px" line-height="18px" padding-top="10px" color="#FFFFFF" align="center">
+          For more magical information, please visit our <a style="color:#FFFFFF;" href="#"> Help Center. </a>
+        </mj-text>
+
+        <!-- Divider -->
+        <mj-divider padding="10px 0px" border-width="2px" border-color="#555555" />
+
+        <!-- Logos -->
+        <mj-image padding="0px" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/5c1579fb-7f09-cf75-7a9c-63a82a66854b.png" alt="Enchanted_Logos" />
+        <mj-text padding="20px 10%" color="#C0C0C0" font-size="10px" line-height="16px">
+          This magical email was sent to: hello@MagicViewers.com. Please do not reply to this email as this address is not enchanted. This email contains an enchanting advertisement from: Enchanted Streaming Services, LLC, 123 Enchanted Lane, Wonderland, WL 12345.<br><br>
+          If you wish to stop receiving magical email messages, please <a style=" color:#C0C0C0;font-weight:bold; " href="#">opt-out </a><br><br>
+          © 2023 Enchanted Streaming and its enchanted entities. All Rights Reserved.
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer End -->
+
+  </mj-body>
+</mjml>
